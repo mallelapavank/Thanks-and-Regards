@@ -11,61 +11,13 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-port\\values-port.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 291,
+                        "startOffset": 55,
                         "endColumn": 55,
-                        "endOffset": 342
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\AngelHackDemo\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 55,
-                        "endOffset": 342
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-port\\values-port.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 55,
-                        "endOffset": 342
+                        "endOffset": 106
                     }
                 }
             }

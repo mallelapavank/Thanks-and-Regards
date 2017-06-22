@@ -1,13 +1,5 @@
 [
     {
-        "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\AngelHackDemo\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\AngelHackDemo\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\ParseStarterProject\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\src\\main\\res\\menu\\menu_main.xml"
     }

@@ -11,13 +11,13 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 55,
                         "endColumn": 107,
-                        "endOffset": 398
+                        "endOffset": 158
                     }
                 }
             },
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 163,
-                    "endColumn": 103,
-                    "endOffset": 262
+                    "endColumn": 122,
+                    "endOffset": 281
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 403,
-                        "endColumn": 103,
-                        "endOffset": 502
+                        "startOffset": 163,
+                        "endColumn": 122,
+                        "endOffset": 281
                     }
                 }
             },
@@ -44,251 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 267,
-                    "endColumn": 107,
-                    "endOffset": 370
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 507,
-                        "endColumn": 107,
-                        "endOffset": 610
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 375,
-                    "endColumn": 85,
-                    "endOffset": 456
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 615,
-                        "endColumn": 85,
-                        "endOffset": 696
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 461,
-                    "endColumn": 104,
-                    "endOffset": 561
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 701,
-                        "endColumn": 104,
-                        "endOffset": 801
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 566,
-                    "endColumn": 118,
-                    "endOffset": 680
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 806,
-                        "endColumn": 118,
-                        "endOffset": 920
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 685,
-                    "endColumn": 105,
-                    "endOffset": 786
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 925,
-                        "endColumn": 105,
-                        "endOffset": 1026
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 791,
-                    "endColumn": 106,
-                    "endOffset": 893
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1031,
-                        "endColumn": 106,
-                        "endOffset": 1133
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 898,
-                    "endColumn": 100,
-                    "endOffset": 994
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1138,
-                        "endColumn": 100,
-                        "endOffset": 1234
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 999,
-                    "endColumn": 106,
-                    "endOffset": 1101
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1239,
-                        "endColumn": 106,
-                        "endOffset": 1341
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 110,
-                    "endOffset": 1212
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1346,
-                        "endColumn": 110,
-                        "endOffset": 1452
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1217,
+                    "startOffset": 286,
                     "endColumn": 103,
-                    "endOffset": 1316
+                    "endOffset": 385
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1457,
-                        "endColumn": 103,
-                        "endOffset": 1556
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 107,
-                    "endOffset": 158
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 107,
-                        "endOffset": 398
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 163,
-                    "endColumn": 103,
-                    "endOffset": 262
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 403,
+                        "startOffset": 286,
                         "endColumn": 103,
-                        "endOffset": 502
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 267,
-                    "endColumn": 107,
-                    "endOffset": 370
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 507,
-                        "endColumn": 107,
-                        "endOffset": 610
+                        "endOffset": 385
                     }
                 }
             },
@@ -296,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 375,
-                    "endColumn": 85,
-                    "endOffset": 456
+                    "startOffset": 390,
+                    "endColumn": 107,
+                    "endOffset": 493
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 615,
-                        "endColumn": 85,
-                        "endOffset": 696
+                        "startOffset": 390,
+                        "endColumn": 107,
+                        "endOffset": 493
                     }
                 }
             },
@@ -315,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 461,
-                    "endColumn": 104,
-                    "endOffset": 561
+                    "startOffset": 498,
+                    "endColumn": 85,
+                    "endOffset": 579
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 701,
-                        "endColumn": 104,
-                        "endOffset": 801
+                        "startOffset": 498,
+                        "endColumn": 85,
+                        "endOffset": 579
                     }
                 }
             },
@@ -334,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 566,
-                    "endColumn": 118,
-                    "endOffset": 680
+                    "startOffset": 584,
+                    "endColumn": 104,
+                    "endOffset": 684
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 806,
-                        "endColumn": 118,
-                        "endOffset": 920
+                        "startOffset": 584,
+                        "endColumn": 104,
+                        "endOffset": 684
                     }
                 }
             },
@@ -353,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 685,
-                    "endColumn": 105,
-                    "endOffset": 786
+                    "startOffset": 689,
+                    "endColumn": 118,
+                    "endOffset": 803
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 925,
-                        "endColumn": 105,
-                        "endOffset": 1026
+                        "startOffset": 689,
+                        "endColumn": 118,
+                        "endOffset": 803
                     }
                 }
             },
@@ -372,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 791,
-                    "endColumn": 106,
-                    "endOffset": 893
+                    "startOffset": 808,
+                    "endColumn": 82,
+                    "endOffset": 886
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1031,
-                        "endColumn": 106,
-                        "endOffset": 1133
+                        "startOffset": 808,
+                        "endColumn": 82,
+                        "endOffset": 886
                     }
                 }
             },
@@ -391,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 898,
-                    "endColumn": 100,
-                    "endOffset": 994
+                    "startOffset": 891,
+                    "endColumn": 81,
+                    "endOffset": 968
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1138,
-                        "endColumn": 100,
-                        "endOffset": 1234
+                        "startOffset": 891,
+                        "endColumn": 81,
+                        "endOffset": 968
                     }
                 }
             },
@@ -410,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 999,
-                    "endColumn": 106,
-                    "endOffset": 1101
+                    "startOffset": 973,
+                    "endColumn": 86,
+                    "endOffset": 1055
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1239,
-                        "endColumn": 106,
-                        "endOffset": 1341
+                        "startOffset": 973,
+                        "endColumn": 86,
+                        "endOffset": 1055
                     }
                 }
             },
@@ -429,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 110,
-                    "endOffset": 1212
+                    "startOffset": 1060,
+                    "endColumn": 105,
+                    "endOffset": 1161
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1346,
-                        "endColumn": 110,
-                        "endOffset": 1452
+                        "startOffset": 1060,
+                        "endColumn": 105,
+                        "endOffset": 1161
                     }
                 }
             },
@@ -448,251 +215,436 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1217,
-                    "endColumn": 103,
-                    "endOffset": 1316
+                    "startOffset": 1166,
+                    "endColumn": 106,
+                    "endOffset": 1268
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 106,
+                        "endOffset": 1268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endColumn": 100,
+                    "endOffset": 1369
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1273,
+                        "endColumn": 100,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1374,
+                    "endColumn": 106,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1457,
-                        "endColumn": 103,
-                        "endOffset": 1556
+                        "startOffset": 1374,
+                        "endColumn": 106,
+                        "endOffset": 1476
                     }
                 }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\AngelHackDemo\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mk-rMK\\values-mk-rMK.xml",
-        "map": [
+            },
             {
                 "to": {
-                    "startLine": 2,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 107,
-                    "endOffset": 158
+                    "startOffset": 1481,
+                    "endColumn": 110,
+                    "endOffset": 1587
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 110,
+                        "endOffset": 1587
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1592,
+                    "endColumn": 103,
+                    "endOffset": 1691
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 103,
+                        "endOffset": 1691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1696,
+                    "endColumn": 97,
+                    "endOffset": 1789
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1696,
+                        "endColumn": 97,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1794,
+                    "endColumn": 103,
+                    "endOffset": 1893
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1898,
+                    "endColumn": 92,
+                    "endOffset": 1986
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 92,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1991,
+                    "endColumn": 85,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 107,
-                        "endOffset": 398
+                        "startOffset": 252,
+                        "endColumn": 85,
+                        "endOffset": 333
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 163,
-                    "endColumn": 103,
-                    "endOffset": 262
+                    "startOffset": 2077,
+                    "endColumn": 97,
+                    "endOffset": 2170
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 403,
-                        "endColumn": 103,
-                        "endOffset": 502
+                        "startOffset": 338,
+                        "endColumn": 97,
+                        "endOffset": 431
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 267,
-                    "endColumn": 107,
-                    "endOffset": 370
+                    "startOffset": 2175,
+                    "endColumn": 105,
+                    "endOffset": 2276
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 507,
-                        "endColumn": 107,
-                        "endOffset": 610
+                        "startOffset": 436,
+                        "endColumn": 105,
+                        "endOffset": 537
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 375,
-                    "endColumn": 85,
-                    "endOffset": 456
+                    "startOffset": 2281,
+                    "endColumn": 97,
+                    "endOffset": 2374
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 615,
-                        "endColumn": 85,
-                        "endOffset": 696
+                        "startOffset": 542,
+                        "endColumn": 97,
+                        "endOffset": 635
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 461,
-                    "endColumn": 104,
-                    "endOffset": 561
+                    "startOffset": 2379,
+                    "endColumn": 93,
+                    "endOffset": 2468
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 701,
-                        "endColumn": 104,
-                        "endOffset": 801
+                        "startOffset": 640,
+                        "endColumn": 93,
+                        "endOffset": 729
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 566,
-                    "endColumn": 118,
-                    "endOffset": 680
+                    "startOffset": 2473,
+                    "endColumn": 90,
+                    "endOffset": 2559
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 806,
-                        "endColumn": 118,
-                        "endOffset": 920
+                        "startOffset": 734,
+                        "endColumn": 90,
+                        "endOffset": 820
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 685,
-                    "endColumn": 105,
-                    "endOffset": 786
+                    "startOffset": 2564,
+                    "endColumn": 92,
+                    "endOffset": 2652
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 925,
-                        "endColumn": 105,
-                        "endOffset": 1026
+                        "startOffset": 825,
+                        "endColumn": 92,
+                        "endOffset": 913
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 791,
-                    "endColumn": 106,
-                    "endOffset": 893
+                    "startOffset": 2657,
+                    "endColumn": 114,
+                    "endOffset": 2767
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1031,
-                        "endColumn": 106,
-                        "endOffset": 1133
+                        "startOffset": 918,
+                        "endColumn": 114,
+                        "endOffset": 1028
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 898,
-                    "endColumn": 100,
-                    "endOffset": 994
+                    "startOffset": 2772,
+                    "endColumn": 111,
+                    "endOffset": 2879
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1138,
-                        "endColumn": 100,
-                        "endOffset": 1234
+                        "startOffset": 1033,
+                        "endColumn": 111,
+                        "endOffset": 1140
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 999,
-                    "endColumn": 106,
-                    "endOffset": 1101
+                    "startOffset": 2884,
+                    "endColumn": 86,
+                    "endOffset": 2966
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1239,
-                        "endColumn": 106,
-                        "endOffset": 1341
+                        "startOffset": 1145,
+                        "endColumn": 86,
+                        "endOffset": 1227
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 1106,
-                    "endColumn": 110,
-                    "endOffset": 1212
+                    "startOffset": 2971,
+                    "endColumn": 88,
+                    "endOffset": 3055
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1346,
-                        "endColumn": 110,
-                        "endOffset": 1452
+                        "startOffset": 1232,
+                        "endColumn": 88,
+                        "endOffset": 1316
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 1217,
-                    "endColumn": 103,
-                    "endOffset": 1316
+                    "startOffset": 3060,
+                    "endColumn": 97,
+                    "endOffset": 3153
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1457,
-                        "endColumn": 103,
-                        "endOffset": 1556
+                        "startOffset": 1321,
+                        "endColumn": 97,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 85,
+                    "endOffset": 3239
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1419,
+                        "endColumn": 85,
+                        "endOffset": 1500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3244,
+                    "endColumn": 91,
+                    "endOffset": 3331
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\dd1641aebf88504eddcd948253c54d7b064a4286\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1505,
+                        "endColumn": 91,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3336,
+                    "endColumn": 100,
+                    "endOffset": 3432
+                },
+                "from": {
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\values-mk-rMK\\values-mk-rMK.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1794,
+                        "endColumn": 100,
+                        "endOffset": 1890
                     }
                 }
             }

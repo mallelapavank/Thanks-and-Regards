@@ -11,61 +11,13 @@
                     "endOffset": 105
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w360dp\\values-w360dp.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\cc955166098037ae7b6e57c70fd625a7893e6558\\output\\res\\values-w360dp-v13\\values-w360dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 294,
+                        "startOffset": 55,
                         "endColumn": 54,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\AngelHackDemo\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 54,
-                    "endOffset": 105
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w360dp\\values-w360dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 54,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 54,
-                    "endOffset": 105
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w360dp\\values-w360dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 54,
-                        "endOffset": 344
+                        "endOffset": 105
                     }
                 }
             }

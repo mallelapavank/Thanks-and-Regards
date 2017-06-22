@@ -1,79 +1,485 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:10:1-41:12
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:9:1-75:12
 	package
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:11:5-41
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:10:5-41
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:10:11-69
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:9:11-69
 	android:versionCode
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\858222b624dd78fd5bcb59a03d6360c0a7400cf1\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:9.6.0] C:\Users\PavanMallela\.android\build-cache\7bafce00ac6cdb3320f1659a97dfe5a10e9b23f2\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\dfc7bfd9b7465570ea7021016c6e94779c2018d0\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\97310d96c8ddf142e0365c06afbfccb0fbef97e8\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:14:5-79
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\858222b624dd78fd5bcb59a03d6360c0a7400cf1\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.6.0] C:\Users\PavanMallela\.android\build-cache\07861bf292ec5bf94cf90c50a78520538fb68b69\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\97310d96c8ddf142e0365c06afbfccb0fbef97e8\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:14:22-76
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:21:22-78
 application
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:16:5-39:19
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\PavanMallela\.android\build-cache\bd60355804268dca5efda53c3e650cb72b8a9a3a\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\PavanMallela\.android\build-cache\1b867f1660cbaf6de4fe5ee41eab78dc66aa0611\output\AndroidManifest.xml:22:5-20
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:23:5-73:19
+MERGED from [com.google.android.gms:play-services:9.6.0] C:\Users\PavanMallela\.android\build-cache\237e9fab3dd41e9649066d96b9cb63e0262327dd\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\858222b624dd78fd5bcb59a03d6360c0a7400cf1\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:9.6.0] C:\Users\PavanMallela\.android\build-cache\25fe7e744b1fa4814b6fca0ec790e25afca4d427\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\dd1641aebf88504eddcd948253c54d7b064a4286\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\11a16566aa719737cb5f35a087328929880e4bba\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\PavanMallela\.android\build-cache\057a3b6189f33e4d7f77e8e6311121076102fe02\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\PavanMallela\.android\build-cache\28ac4d61ddeeb37e450a02a3e1103a3e0d3670f5\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.0] C:\Users\PavanMallela\.android\build-cache\c056e3c19e8fb763b1a9e84ea5066b0068153063\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:9.6.0] C:\Users\PavanMallela\.android\build-cache\0fcfbd930cb7604ff4458ca5fffa59d888a26331\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:9.6.0] C:\Users\PavanMallela\.android\build-cache\f5523dc61a1d459fcb69e681c1005424d170debd\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\9a8644984a9b53cf6f68a09961f324a4cbaa0d91\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\5602af9619ef88dde8e019f01eadf7a0b2672544\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:9.6.0] C:\Users\PavanMallela\.android\build-cache\3a5b633a3ebf1c6024bdd06ff2853faf6020b6e9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:9.6.0] C:\Users\PavanMallela\.android\build-cache\95ddd7369198708789f54a2876fb8302f455011b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:9.6.0] C:\Users\PavanMallela\.android\build-cache\0199a2f38b74010028d492c0203efe981038dfec\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.6.0] C:\Users\PavanMallela\.android\build-cache\d627e7c64d70072881ac8cd478e1594ca9d123c6\output\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-gcm:9.6.0] C:\Users\PavanMallela\.android\build-cache\7bafce00ac6cdb3320f1659a97dfe5a10e9b23f2\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.0] C:\Users\PavanMallela\.android\build-cache\0f3cf6e02a54560a98b523291833c30f21b54d3c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\dfc7bfd9b7465570ea7021016c6e94779c2018d0\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:9.6.0] C:\Users\PavanMallela\.android\build-cache\379399bcdc516faeaf8474ac52c33cb0150a2880\output\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-nearby:9.6.0] C:\Users\PavanMallela\.android\build-cache\07861bf292ec5bf94cf90c50a78520538fb68b69\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:9.6.0] C:\Users\PavanMallela\.android\build-cache\88e4a3e69347ec211146535a70042d87317e9b54\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:9.6.0] C:\Users\PavanMallela\.android\build-cache\7e9a7888f33dea511a4623d98ba11ccf5c9a1ace\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:9.6.0] C:\Users\PavanMallela\.android\build-cache\485cad0362de46663f26a4f62e9666498ed21fa2\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.0] C:\Users\PavanMallela\.android\build-cache\8ebc522b746d5321746ed45a571c4debda89d7ef\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\97310d96c8ddf142e0365c06afbfccb0fbef97e8\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-vision:9.6.0] C:\Users\PavanMallela\.android\build-cache\42043cbc53111b20c1f538d95a8a6a1af988ee99\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:9.6.0] C:\Users\PavanMallela\.android\build-cache\422cf7087310d87554e81340f20b7337d0b04d4e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:9.6.0] C:\Users\PavanMallela\.android\build-cache\9739bf5493e9a9e0caf03511f221693a8e2d3a9b\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\78e96f1e6c56f98f701033f88f667a36fc03af7a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.0] C:\Users\PavanMallela\.android\build-cache\d385fbb5788175484ffcd328bd75d174314ab3c7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.0] C:\Users\PavanMallela\.android\build-cache\a3e96ffa50918fe1d03aeca6a7daa107af7218cd\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\PavanMallela\.android\build-cache\dc243151e33708156d21d2056274b6dd8cd2b24e\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PavanMallela\.android\build-cache\ef190ac0dbaa46426d94c5452bfaa18162bc6866\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:27:9-41
 	android:allowBackup
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:25:9-35
 	android:icon
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:26:9-43
 	android:theme
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:21:9-40
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:28:9-40
 	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:17:9-69
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:24:9-43
 meta-data#com.parse.APPLICATION_ID
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:22:9-24:52
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:29:9-31:52
 	android:value
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:24:13-49
-	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:23:13-52
-meta-data#com.parse.CLIENT_KEY
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:25:9-27:56
-	android:value
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:27:13-53
-	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:26:13-48
-activity#com.parse.thanksandregards.MainActivity
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:29:9-38:20
-	android:screenOrientation
 		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:30:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:32:9-34:56
+	android:value
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:34:13-53
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:33:13-48
+activity#com.parse.thanksandregards.MainActivity
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:39:13-49
 	android:label
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:38:13-45
 	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:30:13-67
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:37:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:33:13-37:29
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:34:17-69
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:34:25-66
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:36:17-77
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:36:27-74
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:43:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:54:9-56:55
+	android:value
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:55:13-58
+activity#com.parse.thanksandregards.ReceiverActivity
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:58:9-64:20
+	android:label
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:60:13-60
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:59:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:61:13-63:75
+	android:value
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:63:17-72
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:62:17-63
+activity#com.parse.thanksandregards.ProviderActivity
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:65:9-71:20
+	android:label
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:67:13-60
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:66:13-45
+activity#com.parse.thanksandregards.ViewReceiversRequests
+ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:72:9-68
+	android:name
+		ADDED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:72:19-56
 uses-sdk
 INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\PavanMallela\.android\build-cache\bd60355804268dca5efda53c3e650cb72b8a9a3a\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:22.2.0] C:\Users\PavanMallela\.android\build-cache\1b867f1660cbaf6de4fe5ee41eab78dc66aa0611\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:9.6.0] C:\Users\PavanMallela\.android\build-cache\237e9fab3dd41e9649066d96b9cb63e0262327dd\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.6.0] C:\Users\PavanMallela\.android\build-cache\3e31c41ce874915a07b74fa1ac266544558acc09\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\858222b624dd78fd5bcb59a03d6360c0a7400cf1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\639c2086048202b5a22441dc4026bbf20c570779\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:9.6.0] C:\Users\PavanMallela\.android\build-cache\25fe7e744b1fa4814b6fca0ec790e25afca4d427\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\dd1641aebf88504eddcd948253c54d7b064a4286\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\11a16566aa719737cb5f35a087328929880e4bba\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\PavanMallela\.android\build-cache\057a3b6189f33e4d7f77e8e6311121076102fe02\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\PavanMallela\.android\build-cache\28ac4d61ddeeb37e450a02a3e1103a3e0d3670f5\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:9.6.0] C:\Users\PavanMallela\.android\build-cache\c056e3c19e8fb763b1a9e84ea5066b0068153063\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.0] C:\Users\PavanMallela\.android\build-cache\0fcfbd930cb7604ff4458ca5fffa59d888a26331\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:9.6.0] C:\Users\PavanMallela\.android\build-cache\f5523dc61a1d459fcb69e681c1005424d170debd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\9a8644984a9b53cf6f68a09961f324a4cbaa0d91\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\5602af9619ef88dde8e019f01eadf7a0b2672544\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.6.0] C:\Users\PavanMallela\.android\build-cache\03f837dee6fb961c5ffffa32a1093b18a6f6a5b4\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.6.0] C:\Users\PavanMallela\.android\build-cache\a81ba2fcdf0b27c64b1efc833b393e9f8955cc00\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.6.0] C:\Users\PavanMallela\.android\build-cache\2464aa6ad1f1b2b06f90af55043d0c4a39452035\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:9.6.0] C:\Users\PavanMallela\.android\build-cache\dbc4e38613421343f92240fd6acb0315dcf1cf3f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\3b3f7befef1554854075319f84a1c9edb86f6f41\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:9.6.0] C:\Users\PavanMallela\.android\build-cache\3a5b633a3ebf1c6024bdd06ff2853faf6020b6e9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:9.6.0] C:\Users\PavanMallela\.android\build-cache\95ddd7369198708789f54a2876fb8302f455011b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:9.6.0] C:\Users\PavanMallela\.android\build-cache\0199a2f38b74010028d492c0203efe981038dfec\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:9.6.0] C:\Users\PavanMallela\.android\build-cache\7bafce00ac6cdb3320f1659a97dfe5a10e9b23f2\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:9.6.0] C:\Users\PavanMallela\.android\build-cache\0f3cf6e02a54560a98b523291833c30f21b54d3c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\dfc7bfd9b7465570ea7021016c6e94779c2018d0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:9.6.0] C:\Users\PavanMallela\.android\build-cache\0e8fe14e292c155243ab44435898bfe0f6818d08\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:9.6.0] C:\Users\PavanMallela\.android\build-cache\07861bf292ec5bf94cf90c50a78520538fb68b69\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:9.6.0] C:\Users\PavanMallela\.android\build-cache\88e4a3e69347ec211146535a70042d87317e9b54\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:9.6.0] C:\Users\PavanMallela\.android\build-cache\7e9a7888f33dea511a4623d98ba11ccf5c9a1ace\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:9.6.0] C:\Users\PavanMallela\.android\build-cache\485cad0362de46663f26a4f62e9666498ed21fa2\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:9.6.0] C:\Users\PavanMallela\.android\build-cache\8ebc522b746d5321746ed45a571c4debda89d7ef\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:9.6.0] C:\Users\PavanMallela\.android\build-cache\33478874c63a2c39d1b6244c122d6ead38bb5229\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\97310d96c8ddf142e0365c06afbfccb0fbef97e8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.6.0] C:\Users\PavanMallela\.android\build-cache\42043cbc53111b20c1f538d95a8a6a1af988ee99\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:9.6.0] C:\Users\PavanMallela\.android\build-cache\bc1e86e7755e66d116d2bd56df925f0529e7461d\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:9.6.0] C:\Users\PavanMallela\.android\build-cache\422cf7087310d87554e81340f20b7337d0b04d4e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-wearable:9.6.0] C:\Users\PavanMallela\.android\build-cache\9739bf5493e9a9e0caf03511f221693a8e2d3a9b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\78e96f1e6c56f98f701033f88f667a36fc03af7a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.0] C:\Users\PavanMallela\.android\build-cache\d385fbb5788175484ffcd328bd75d174314ab3c7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.0] C:\Users\PavanMallela\.android\build-cache\a3e96ffa50918fe1d03aeca6a7daa107af7218cd\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\PavanMallela\.android\build-cache\dc243151e33708156d21d2056274b6dd8cd2b24e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:multidex:1.0.0] C:\Users\PavanMallela\.android\build-cache\1427d4ec4713784abaebddefdffc2313c7d790fe\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\PavanMallela\.android\build-cache\ef190ac0dbaa46426d94c5452bfaa18162bc6866\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\PavanMallela\.android\build-cache\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.6.0] C:\Users\PavanMallela\.android\build-cache\99c7c5ca2ef7e8cd5df019c4a3787e867cb63299\output\AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\858222b624dd78fd5bcb59a03d6360c0a7400cf1\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\97310d96c8ddf142e0365c06afbfccb0fbef97e8\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\858222b624dd78fd5bcb59a03d6360c0a7400cf1\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:9.6.0] C:\Users\PavanMallela\.android\build-cache\736c4ed5f795551f92c4564737fc5151184ab73a\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.6.0] C:\Users\PavanMallela\.android\build-cache\6f5d0a63a795e4d45a83181edef0755c400b8b20\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:9.6.0] C:\Users\PavanMallela\.android\build-cache\3184d7775eb9941a9a0e69ccf0e1b650570bfb71\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:24:9-117
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:24:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:26:9-115
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:26:78-113
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] C:\Users\PavanMallela\.android\build-cache\cf8870fa7e4d35a2c9d7b1b0021ef09fb986bdbf\output\AndroidManifest.xml:26:18-77
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.0] C:\Users\PavanMallela\.android\build-cache\fff18e089e4dd78d9f84bb971ea541dfc4d5d28e\output\AndroidManifest.xml:25:25-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:9:1-75:12 reason: com.google.android.gmscore.integ.client.gass has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:9:1-75:12 reason: com.google.android.gmscore.integ.client.gass has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\PavanMallela\AndroidStudioProjects\ThanksAndRegards\app\src\main\AndroidManifest.xml:9:1-75:12 reason: com.google.android.gmscore.integ.client.gass requested WRITE_EXTERNAL_STORAGE
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:9.6.0] C:\Users\PavanMallela\.android\build-cache\7bafce00ac6cdb3320f1659a97dfe5a10e9b23f2\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\dfc7bfd9b7465570ea7021016c6e94779c2018d0\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:9.6.0] C:\Users\PavanMallela\.android\build-cache\7bafce00ac6cdb3320f1659a97dfe5a10e9b23f2\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:9.6.0] C:\Users\PavanMallela\.android\build-cache\3f874c1d5a618cc356c99cb4086bdb776d9d71f0\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] C:\Users\PavanMallela\.android\build-cache\c794630febf5ded9bf34c2430814e3725c886a79\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] C:\Users\PavanMallela\.android\build-cache\03771819b07a891fc7a3cbc3a442ca480496e2f6\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] C:\Users\PavanMallela\.android\build-cache\0a7b67c3a68923d55c1d5daefd039fc3695fe9d6\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.0] C:\Users\PavanMallela\.android\build-cache\4d68fed3fddd360f5ea94337106d23c9d4c33840\output\AndroidManifest.xml:6:79-124
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.0] C:\Users\PavanMallela\.android\build-cache\d58d6660dea0982b6b80bd70622933e875b794fc\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\78e96f1e6c56f98f701033f88f667a36fc03af7a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\78e96f1e6c56f98f701033f88f667a36fc03af7a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\78e96f1e6c56f98f701033f88f667a36fc03af7a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.0] C:\Users\PavanMallela\.android\build-cache\78e96f1e6c56f98f701033f88f667a36fc03af7a\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.0] C:\Users\PavanMallela\.android\build-cache\a3e96ffa50918fe1d03aeca6a7daa107af7218cd\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.0] C:\Users\PavanMallela\.android\build-cache\a3e96ffa50918fe1d03aeca6a7daa107af7218cd\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.0] C:\Users\PavanMallela\.android\build-cache\a3e96ffa50918fe1d03aeca6a7daa107af7218cd\output\AndroidManifest.xml:20:20-65

@@ -11,13 +11,13 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\cc955166098037ae7b6e57c70fd625a7893e6558\\output\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 294,
+                        "startOffset": 55,
                         "endColumn": 63,
-                        "endOffset": 353
+                        "endOffset": 114
                     }
                 }
             },
@@ -30,99 +30,13 @@
                     "endOffset": 169
                 },
                 "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\cc955166098037ae7b6e57c70fd625a7893e6558\\output\\res\\values-w600dp-v13\\values-w600dp-v13.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 358,
+                        "startOffset": 119,
                         "endColumn": 54,
-                        "endOffset": 408
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 63,
-                    "endOffset": 114
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 63,
-                        "endOffset": 353
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 119,
-                    "endColumn": 54,
-                    "endOffset": 169
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 358,
-                        "endColumn": 54,
-                        "endOffset": 408
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\AngelHackDemo\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 63,
-                    "endOffset": 114
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 294,
-                        "endColumn": 63,
-                        "endOffset": 353
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 119,
-                    "endColumn": 54,
-                    "endOffset": 169
-                },
-                "from": {
-                    "file": "C:\\Users\\PavanMallela\\.android\\build-cache\\bd60355804268dca5efda53c3e650cb72b8a9a3a\\output\\res\\values-w600dp\\values-w600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 358,
-                        "endColumn": 54,
-                        "endOffset": 408
+                        "endOffset": 169
                     }
                 }
             }

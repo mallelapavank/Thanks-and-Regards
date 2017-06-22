@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     mySwitch = (Switch) findViewById(R.id.switch1);
 
     //hide actionbar
-    getSupportActionBar().hide();
+//    getSupportActionBar().hide();
 
     if(ParseUser.getCurrentUser() == null) {
       ParseAnonymousUtils.logIn(new LogInCallback() {
@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
   }
 
   //On button click
-  private void getStarted(View view) {
+  public void getStarted(View view){
 
       //set user type
     String userType = "receiver";
@@ -82,6 +82,7 @@ public class MainActivity extends AppCompatActivity {
       }
     });
     Log.d(TAG, "onClick: Redirecting as " + userType);
+
   }
 
   @Override
