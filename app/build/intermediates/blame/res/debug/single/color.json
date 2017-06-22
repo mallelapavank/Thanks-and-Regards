@@ -8,8 +8,40 @@
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\ca75b6c6656cd4f89ef8e690868c02fe1571da65\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\2623d9335af240dbba69b03f5a9b54288044ce05\\output\\res\\color\\wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\63810547bf6a17a4a73048ac13f5b4d85bcc8558\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
@@ -20,12 +52,20 @@
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\bc1e86e7755e66d116d2bd56df925f0529e7461d\\output\\res\\color\\wallet_primary_text_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
@@ -36,8 +76,16 @@
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
@@ -46,6 +94,10 @@
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -60,8 +112,16 @@
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_secondary_text_holo_dark.xml",
@@ -72,12 +132,24 @@
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\78e96f1e6c56f98f701033f88f667a36fc03af7a\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -88,11 +160,23 @@
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\52d8e221dd1ee9717fd6fd8fcffa8bb3c1f17d24\\output\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\3d508e4440e2235488e25e5a791472e702fce9a2\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\ca75b6c6656cd4f89ef8e690868c02fe1571da65\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\63810547bf6a17a4a73048ac13f5b4d85bcc8558\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\a43a4d8cf5a9ea4d8c24526197a4a0754a14e16d\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\color\\wallet_primary_text_holo_light.xml",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\2623d9335af240dbba69b03f5a9b54288044ce05\\output\\res\\color\\wallet_primary_text_holo_light.xml"
     }
 ]

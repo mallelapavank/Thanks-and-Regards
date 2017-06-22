@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\zub\\Documents\\GitHub\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\zub\\.android\\build-cache\\241eb97aae968d5a11084709f5d357a26e58366e\\output\\res\\raw\\gtm_analytics"
+    },
+    {
         "merged": "C:\\Users\\PavanMallela\\AndroidStudioProjects\\ThanksAndRegards\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
         "source": "C:\\Users\\PavanMallela\\.android\\build-cache\\97310d96c8ddf142e0365c06afbfccb0fbef97e8\\output\\res\\raw\\gtm_analytics"
     }
