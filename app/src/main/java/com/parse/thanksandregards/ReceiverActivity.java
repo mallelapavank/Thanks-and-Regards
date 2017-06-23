@@ -81,7 +81,7 @@ public class ReceiverActivity extends FragmentActivity implements OnMapReadyCall
     }
 
     public void request(View view) {
-        Log.i("Clicked", "Call Taxi");
+        Log.i("Clicked", "Call Food");
 
         if(requestActive) {
             ParseQuery<ParseObject> query = ParseQuery.getQuery("Requests");
@@ -102,7 +102,7 @@ public class ReceiverActivity extends FragmentActivity implements OnMapReadyCall
             });
         } else {
             if(ContextCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
-                locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, (android.location.LocationListener) locationListener);
+                locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
                 Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
 
                 if(lastKnownLocation != null) {
@@ -129,7 +129,7 @@ public class ReceiverActivity extends FragmentActivity implements OnMapReadyCall
     private void checkForUpdates() {
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Requests");
         query.whereEqualTo("username", ParseUser.getCurrentUser().getUsername());
-        query.whereExists("driverUsername");
+        query.whereExists("providerUsername");
 
         query.findInBackground(new FindCallback<ParseObject>() {
             @Override
@@ -138,25 +138,25 @@ public class ReceiverActivity extends FragmentActivity implements OnMapReadyCall
                     providerActive = true;
 
                     ParseQuery<ParseUser> query = ParseUser.getQuery();
-                    query.whereEqualTo("username", objects.get(0).getString("driverUsername"));
+                    query.whereEqualTo("username", objects.get(0).getString("providerUsername"));
 
                     query.findInBackground(new FindCallback<ParseUser>() {
                         @Override
                         public void done(List<ParseUser> objects, ParseException e) {
                             if(e == null) {
-                                ParseGeoPoint driverLocation = objects.get(0).getParseGeoPoint("location");
+                                ParseGeoPoint providerLocation = objects.get(0).getParseGeoPoint("location");
 
                                 if (Build.VERSION.SDK_INT < 23 || ContextCompat.checkSelfPermission(ReceiverActivity.this, android.Manifest.permission.ACCESS_FINE_LOCATION) == PackageManager.PERMISSION_GRANTED) {
                                     Location lastKnownLocation = locationManager.getLastKnownLocation(LocationManager.GPS_PROVIDER);
                                     if (lastKnownLocation != null) {
                                         ParseGeoPoint userLocation = new ParseGeoPoint(lastKnownLocation.getLatitude(), lastKnownLocation.getLongitude());
-                                        Double distanceInKms = driverLocation.distanceInKilometersTo(userLocation);
+                                        Double distanceInKms = providerLocation.distanceInKilometersTo(userLocation);
 
                                         if (distanceInKms < 0.01) {
 
                                             infoTextView.setText("Your food has arrived!");
 
-                                            ParseQuery<ParseObject> query = ParseQuery.getQuery("Request");
+                                            ParseQuery<ParseObject> query = ParseQuery.getQuery("Requests");
                                             query.whereEqualTo("username", ParseUser.getCurrentUser().getUsername());
                                             query.findInBackground(new FindCallback<ParseObject>() {
                                                 @Override
@@ -185,12 +185,12 @@ public class ReceiverActivity extends FragmentActivity implements OnMapReadyCall
                                             Double distanceOneDP = (double) Math.round(distanceInKms * 10) / 10;
                                             infoTextView.setText("Your food is " + distanceOneDP.toString() + " kms away");
 
-                                            LatLng driverLocationLatLng = new LatLng(driverLocation.getLatitude(), driverLocation.getLongitude());
+                                            LatLng providerLocationLatLng = new LatLng(providerLocation.getLatitude(), providerLocation.getLongitude());
                                             LatLng requestLocationLatLng = new LatLng(userLocation.getLatitude(), userLocation.getLongitude());
 
                                             ArrayList<Marker> markers = new ArrayList<>();
                                             mMap.clear();
-                                            markers.add(mMap.addMarker(new MarkerOptions().position(driverLocationLatLng).title("Provider Location")));
+                                            markers.add(mMap.addMarker(new MarkerOptions().position(providerLocationLatLng).title("Provider Location")));
                                             markers.add(mMap.addMarker(new MarkerOptions().position(requestLocationLatLng).title("Your Location").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE))));
 
                                             LatLngBounds.Builder latLngBuilder = new LatLngBounds.Builder();

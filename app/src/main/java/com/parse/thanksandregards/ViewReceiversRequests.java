@@ -139,7 +139,7 @@ public class ViewReceiversRequests extends AppCompatActivity {
             @Override
             public void onLocationChanged(Location location) {
                 updateListView(location);
-                //save driver's location
+                //save provider's location
                 ParseUser.getCurrentUser().put("location", new ParseGeoPoint(location.getLatitude(), location.getLongitude()));
                 ParseUser.getCurrentUser().saveInBackground();
             }

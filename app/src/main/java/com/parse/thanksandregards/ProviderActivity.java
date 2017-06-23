@@ -74,14 +74,14 @@ public class ProviderActivity extends FragmentActivity implements OnMapReadyCall
         RelativeLayout mapLayout = (RelativeLayout)findViewById(R.id.mapRelativeLayout);
         mapLayout.getViewTreeObserver().addOnGlobalLayoutListener(new ViewTreeObserver.OnGlobalLayoutListener() {
             @Override
-                public void onGlobalLayout() {
+            public void onGlobalLayout() {
 
-                LatLng driverLocation = new LatLng(intent.getDoubleExtra("providerLatitude", 0), intent.getDoubleExtra("providerLongitude", 0));
+                LatLng providerLocation = new LatLng(intent.getDoubleExtra("providerLatitude", 0), intent.getDoubleExtra("providerLongitude", 0));
                 LatLng requestLocation = new LatLng(intent.getDoubleExtra("requestLatitude", 0), intent.getDoubleExtra("requestLongitude", 0));
 
                 ArrayList<Marker> markers = new ArrayList<>();
                 mMap.clear();
-                markers.add(mMap.addMarker(new MarkerOptions().position(driverLocation).title("Your Location")));
+                markers.add(mMap.addMarker(new MarkerOptions().position(providerLocation).title("Your Location")));
                 markers.add(mMap.addMarker(new MarkerOptions().position(requestLocation).title("Request Location").icon(BitmapDescriptorFactory.defaultMarker(BitmapDescriptorFactory.HUE_AZURE))));
 
                 LatLngBounds.Builder latLngBuilder = new LatLngBounds.Builder();
