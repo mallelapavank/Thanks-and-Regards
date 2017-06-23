@@ -21,7 +21,6 @@
         android:src="@drawable/logopng"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
-        tools:layout_constraintBottom_creator="1"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginTop="46dp"
         tools:layout_constraintLeft_creator="1"
@@ -29,29 +28,22 @@
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
         app:layout_constraintHorizontal_bias="0.0" />
 
     <Button
         android:id="@+id/buttonGetStarted"
-        style="@android:style/Widget.Holo.Button"
-        android:layout_width="wrap_content"
+        android:layout_width="368dp"
         android:layout_height="wrap_content"
         android:onClick="getStarted"
+        android:layout_margin="8dp"
         android:text="@string/get_started"
-        tools:layout_constraintTop_creator="1"
-        tools:layout_constraintRight_creator="1"
-        tools:layout_constraintBottom_creator="1"
         app:layout_constraintBottom_toBottomOf="parent"
-        tools:layout_constraintLeft_creator="1"
-        android:layout_marginBottom="46dp"
-        android:layout_marginTop="16dp"
-        app:layout_constraintTop_toBottomOf="@+id/switch1"
-        app:layout_constraintVertical_bias="0.51"
-        android:layout_marginLeft="16dp"
+        android:layout_marginStart="4dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        android:layout_marginRight="16dp"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintHorizontal_bias="0.502" />
+        android:clickable="true"
+        app:layout_constraintRight_toRightOf="parent" />
 
     <Switch
         android:id="@+id/switch1"
@@ -62,6 +54,8 @@
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="@+id/textViewTitle"
         android:layout_marginRight="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
         app:layout_constraintRight_toRightOf="@+id/textViewTitle" />
 
     <TextView
@@ -76,6 +70,8 @@
         app:layout_constraintBaseline_toBaselineOf="@+id/switch1"
         app:layout_constraintLeft_toRightOf="@+id/switch1"
         app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginEnd="32dp"
+        android:layout_marginStart="4dp"
         app:layout_constraintHorizontal_bias="0.507" />
 
     <TextView
@@ -89,6 +85,8 @@
         android:textSize="20sp"
         app:layout_constraintBaseline_toBaselineOf="@+id/switch1"
         app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginEnd="4dp"
+        android:layout_marginStart="32dp"
         app:layout_constraintRight_toLeftOf="@+id/switch1" />
 
     <TextView
@@ -102,13 +100,14 @@
         android:textStyle="normal|bold"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
-        tools:layout_constraintBottom_creator="1"
         app:layout_constraintRight_toRightOf="parent"
         android:layout_marginRight="16dp"
         android:layout_marginLeft="16dp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintHorizontal_bias="0.504"
         android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
         app:layout_constraintTop_toBottomOf="@+id/imageLogo" />
 
 </android.support.constraint.ConstraintLayout>
