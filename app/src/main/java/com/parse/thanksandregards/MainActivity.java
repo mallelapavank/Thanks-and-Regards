@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         public void done(ParseUser user, ParseException e) {
           if(e == null) {
             Log.d(TAG, "Anonymous: Login Successful");
+            Log.d(TAG, "User: Logged in as " + ParseUser.getCurrentUser().getUsername());
           } else {
             Log.d(TAG, "Anonymous: Login Failed");
           }
@@ -46,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
     } else {
       if(ParseUser.getCurrentUser().get("receiverorprovider") != null ) {
         Log.d(TAG, "Switch: Redirecting as " + ParseUser.getCurrentUser().get("receiverorprovider"));
+          Log.d(TAG, "ExistingUser: Logged in as " + ParseUser.getCurrentUser().getUsername());
         redirectActivity();
       }
     }
@@ -59,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
       Intent intent = new Intent(getApplicationContext(), ReceiverActivity.class);
       startActivity(intent);
     } else {
-      Intent intent = new Intent(getApplicationContext(), ProviderActivity.class);
+      Intent intent = new Intent(getApplicationContext(), ViewReceiversRequests.class);
       startActivity(intent);
     }
   }
