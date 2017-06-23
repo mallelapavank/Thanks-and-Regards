@@ -59,3 +59,4 @@ freeline_project_description.json
 /app/build/outputs/
 /app/build/intermediates/
 /app/build/generated/
+/.idea/kotlinc.xml
