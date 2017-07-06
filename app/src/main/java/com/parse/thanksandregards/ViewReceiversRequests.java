@@ -62,7 +62,7 @@ public class ViewReceiversRequests extends AppCompatActivity {
                                 ParseGeoPoint requestLocation = (ParseGeoPoint) object.get("location");
                                 if(requestLocation != null) {
                                     Double distanceInKms = geoPointLocation.distanceInKilometersTo(requestLocation);
-                                    Double distanceOneDP = (double) Math.round(distanceInKms * 10) / 10;
+                                    Double distanceOneDP = (double) Math.round(distanceInKms * 10)/10;
                                     requests.add(distanceOneDP.toString() + " Kms");
 
                                     requestLatitude.add(requestLocation.getLatitude());
